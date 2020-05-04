@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/cara-a-cara/static/css/main.4c55b77a.chunk.css",
+    "main.js": "/cara-a-cara/static/js/main.7b4eaf1a.chunk.js",
+    "main.js.map": "/cara-a-cara/static/js/main.7b4eaf1a.chunk.js.map",
+    "runtime-main.js": "/cara-a-cara/static/js/runtime-main.6a9e861b.js",
+    "runtime-main.js.map": "/cara-a-cara/static/js/runtime-main.6a9e861b.js.map",
+    "static/js/2.4c79f77e.chunk.js": "/cara-a-cara/static/js/2.4c79f77e.chunk.js",
+    "static/js/2.4c79f77e.chunk.js.map": "/cara-a-cara/static/js/2.4c79f77e.chunk.js.map",
+    "index.html": "/cara-a-cara/index.html",
+    "precache-manifest.3dfd82a0998b2fccf26f7a9e65ab0847.js": "/cara-a-cara/precache-manifest.3dfd82a0998b2fccf26f7a9e65ab0847.js",
+    "service-worker.js": "/cara-a-cara/service-worker.js",
+    "static/css/main.4c55b77a.chunk.css.map": "/cara-a-cara/static/css/main.4c55b77a.chunk.css.map",
+    "static/js/2.4c79f77e.chunk.js.LICENSE.txt": "/cara-a-cara/static/js/2.4c79f77e.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/cara-a-cara/static/media/1.90729f88.png",
+    "static/media/10.png": "/cara-a-cara/static/media/10.6998b585.png",
+    "static/media/11.png": "/cara-a-cara/static/media/11.50e8c28e.png",
+    "static/media/12.png": "/cara-a-cara/static/media/12.b91d152c.png",
+    "static/media/13.png": "/cara-a-cara/static/media/13.58088b20.png",
+    "static/media/14.png": "/cara-a-cara/static/media/14.66478163.png",
+    "static/media/15.png": "/cara-a-cara/static/media/15.b8cfc1ac.png",
+    "static/media/16.png": "/cara-a-cara/static/media/16.80c094b9.png",
+    "static/media/17.png": "/cara-a-cara/static/media/17.25d9f953.png",
+    "static/media/18.png": "/cara-a-cara/static/media/18.2202c3df.png",
+    "static/media/19.png": "/cara-a-cara/static/media/19.350e7bb0.png",
+    "static/media/2.png": "/cara-a-cara/static/media/2.f7daf0fc.png",
+    "static/media/20.png": "/cara-a-cara/static/media/20.c15972b7.png",
+    "static/media/21.png": "/cara-a-cara/static/media/21.f6c00346.png",
+    "static/media/3.png": "/cara-a-cara/static/media/3.2685caff.png",
+    "static/media/4.png": "/cara-a-cara/static/media/4.f8b4cbf5.png",
+    "static/media/5.png": "/cara-a-cara/static/media/5.32b2f010.png",
+    "static/media/6.png": "/cara-a-cara/static/media/6.d52d24aa.png",
+    "static/media/7.png": "/cara-a-cara/static/media/7.3139f180.png",
+    "static/media/8.png": "/cara-a-cara/static/media/8.5f2e4ced.png",
+    "static/media/9.png": "/cara-a-cara/static/media/9.e11e7236.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a9e861b.js",
+    "static/js/2.4c79f77e.chunk.js",
+    "static/css/main.4c55b77a.chunk.css",
+    "static/js/main.7b4eaf1a.chunk.js"
+  ]
+}
